@@ -1,10 +1,10 @@
 # Palette-Pro
 
-A website that genarates a color palette that is stylish and morden.
+A website that generates a color palette that is stylish and modern.
 
 # How to run?
 
-Delete node_modules
+Delete node_modules if there.
 
 Run - npm install
 
